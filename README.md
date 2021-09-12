@@ -1,5 +1,5 @@
 
-<p align="center"><a href=""><img width="100%" src="https://github.com/zzxupp/zzxupp/blob/master/dino.gif" /></a></p>
+<!-- <p align="center"><a href=""><img width="100%" src="https://github.com/zzxupp/zzxupp/blob/main/dino.gif" /></a></p> -->
 
 <br />
 
