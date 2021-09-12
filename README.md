@@ -24,7 +24,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api?username=zzxupp&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api/top-langs/?username=zzxupp&layout=compact&hide=HTML,CSS&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/zzxupp/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api?username=zzxupp&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Zhen Xupin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api/top-langs/?username=zzxupp&layout=compact&hide=HTML,CSS&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
