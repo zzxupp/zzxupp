@@ -1,13 +1,45 @@
-<!--![image](https://github.com/ZainCheung/ZainCheung/blob/master/dino.gif)-->
 
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's github stats" src="https://zaincheung-github-readme-stats.vercel.app/api?username=ZainCheung&show_icons=true&theme=radical"/></a>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="PHP" src="https://zaincheung-github-readme-stats.vercel.app/api/top-langs/?username=ZainCheung&hide=HTML,CSS&theme=radical"/></a>
-</p>
+<p align="center"><a href=""><img width="100%" src="https://github.com/zzxupp/zzxupp/blob/master/dino.gif" /></a></p>
+
+<br />
+
+**About me**
+
+- 📕 Study at [UESTC](https://www.uestc.edu.cn/)
+
+- 📈 Built a lot code on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/zzxupp/HomePage/issues)
+
+<br />
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api?username=zzxupp&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://readme-stats-orcin.vercel.app/api/top-langs/?username=zzxupp&layout=compact&hide=HTML,CSS&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://readme-stats-orcin.vercel.app/api/pin/?username=zzxupp&repo=ImgBed" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzxupp&repo=ImgBed" />
+</a>
+-->
+<br />
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ZainCheung/count.svg" />
+  <img src="https://profile-counter.glitch.me/zzxupp/count.svg" />
 </p>
 
 <!--
